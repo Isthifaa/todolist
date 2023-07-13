@@ -44,7 +44,7 @@
     border: 2px solid #000;
 }
 #btn{
-    width: 50px;
+    width: 522px;
     height: 50px;
     border: none;
     outline: none;
@@ -76,4 +76,15 @@
 .list ul li{
     margin-bottom: 10px;
     font-style: 'Courier New', Courier, monospace;
+}
+#del{
+        width: 522px;
+        height: 50px;
+        border: none;
+        outline: none;
+        border-radius: 11px;
+        background-color: #45525e;
+        color: #fff;
+        font-size: 20px;
+        cursor: pointer;
 }
